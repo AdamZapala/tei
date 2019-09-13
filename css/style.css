@@ -1,0 +1,13 @@
+tei-head::before {
+  content: attr(n);
+}
+
+tei-head {
+  color: red;
+}
+
+tei-lg {
+  color: blue;
+  font-style: italic;
+
+}
